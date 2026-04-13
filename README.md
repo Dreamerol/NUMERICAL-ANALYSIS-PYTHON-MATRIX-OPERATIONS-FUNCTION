@@ -7,9 +7,6 @@
 </p>
 
 
-
-https://github.com/Dreamerol/Dreamerol/blob/b020d9b7e76a4a2e7352ad551c80828211835fcf/ZZZZZZdat777.jpg
-
 ---
 
 
