@@ -1,4 +1,4 @@
-<h1 align="center">𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦 𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗦<h1>
+<h1 align="center">𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦<h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/numanalis3.jpg"
