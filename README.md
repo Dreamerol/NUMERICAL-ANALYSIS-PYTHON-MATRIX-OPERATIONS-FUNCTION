@@ -1,4 +1,9 @@
-<h1 align="center">𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦<h1>
+<h1 align="center">
+  <a href="https://github.com/Dreamerol/PORTFOLIO"
+     title="View Numerical Analysis in my Portfolio">
+    𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
+  </a>
+</h1>
 
 
 
