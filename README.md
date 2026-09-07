@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Dreamerol/PORTFOLIO"
-     title="View Numerical Analysis in my Portfolio">
+     title="View Numerical Analysis in my Portfolio - Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer">
     𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
   </a>
 </h1>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/"
-     title="Visit my AI Portfolio">
+     title="Visit my AI Portfolio - Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer">
     <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/numanalis3.jpg"
          style="width:100%; height:auto;"
          alt="Numerical Analysis">
