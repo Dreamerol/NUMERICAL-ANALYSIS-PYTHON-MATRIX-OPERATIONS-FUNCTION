@@ -7,13 +7,23 @@
 
 
 
+<br>
+
+
+
 
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/numanalis3.jpg"
-       style="width:100%; height:auto;" />
+  <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/"
+     title="Visit my AI Portfolio">
+    <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/numanalis3.jpg"
+         style="width:100%; height:auto;"
+         alt="Numerical Analysis">
+  </a>
 </p>
+
+
 
 
 
