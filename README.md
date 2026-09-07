@@ -1,5 +1,12 @@
 <h1 align="center">𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦<h1>
 
+
+
+
+<br>
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/numanalis3.jpg"
        style="width:100%; height:auto;" />
